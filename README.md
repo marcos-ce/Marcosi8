@@ -5,10 +5,14 @@
 </div>
 
 <h1 align="center">
-  High Tech, Low Life <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+  High Tech, Low Life <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"/>
 </h1>
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD-CA472C?style=flat-square&logo=autodesk&logoColor=white)
 ![Cadsimu](https://img.shields.io/badge/-CADeSIMU-007396?style=flat-square&logo=html5&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![DeepSeek](https://img.shields.io/badge/-DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)
+![Open Source AI](https://img.shields.io/badge/-Open_Source_AI-FF9D00?style=flat-square&logo=huggingface&logoColor=black)
