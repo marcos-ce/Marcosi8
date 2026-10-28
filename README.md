@@ -8,6 +8,8 @@
   High Tech, Low Life <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"/>
 </h1>
 
+<div align="center">
+
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD-CA472C?style=flat-square&logo=autodesk&logoColor=white)
 ![Cadsimu](https://img.shields.io/badge/-CADeSIMU-007396?style=flat-square&logo=html5&logoColor=white)
@@ -15,4 +17,7 @@
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![DeepSeek](https://img.shields.io/badge/-DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)
-![Open Source AI](https://img.shields.io/badge/-Open_Source_AI-FF9D00?style=flat-square&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Hermes](https://img.shields.io/badge/-Hermes-6B21A8?style=flat-square&logo=sparkles&logoColor=white)
+
+</div>
