@@ -19,5 +19,6 @@
 ![DeepSeek](https://img.shields.io/badge/-DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![Hermes](https://img.shields.io/badge/-Hermes-6B21A8?style=flat-square&logo=sparkles&logoColor=white)
+[![Contribuidor do XERJ Corpus Hub](https://hub.xerj.org/contributors/marcos-ce/badge.svg)](https://hub.xerj.org/contributors/marcos-ce)
 
 </div>
